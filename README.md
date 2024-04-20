@@ -38,7 +38,7 @@ This is a Unity project aimed at [describe the goal or purpose of the project].
 
 ## Usage
 
-- [Describe how to use the project]
+- To Use The Project Click The "Basketball Masters.zip" And Download It, If You Find Any Error Please Send It To scientifictech.100@gmail.com or martilll444r@gmail.com
 
 ## Contributing
 
@@ -56,4 +56,18 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- [Any acknowledgements you want to mention]
+- ## Acknowledgements
+
+## Acknowledgements
+
+We would like to thank the following individuals and resources for their contributions to this project:
+
+- John Doe: Provided valuable feedback during the development process.
+- Unity Asset Store: Used assets from the store to enhance our project.
+- Stack Overflow community: Helped troubleshoot various issues encountered during development.
+
+Special thanks to:
+
+- Our families and friends for their support and encouragement throughout this project.
+- Teamwork llc
+- precious work from our team !
